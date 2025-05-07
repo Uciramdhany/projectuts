@@ -1,15 +1,27 @@
 body {
     background-color: #90dea1;
     background: linear-gradient(rgb(70, 88, 70));
-    color:white;
-}
-#contact-form button:hover {
-    background-color: #51a0f3;
-    font-family: 'Arial', sans-serif;
+    color:rgb(229, 244, 237);
 }
 nav{
-    background-color: rgb(255, 255, 255);
+    background-color: #ffffff5d;
+    font-size: 18px;
+    font-style: italic;
+    color:rgb(255, 255, 255);
 }
 h1{
-    color:white;
+    color:rgb(255, 255, 255);
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #ffffff;
+    margin-right: 220px;
+}
+nav a:active {
+    color: rgb(0, 0, 0);
+}
+.h1{
+    text-align: center;
 }
